@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fpc_24p_cam")(type "KiCad")(uri "${KIPRJMOD}/Lib/Symbols/fpc_24p_cam.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV62130RGTT")(type "KiCad")(uri "${KIPRJMOD}/Lib/Symbols/TLV62130RGTT.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS621351RGXR")(type "KiCad")(uri "${KIPRJMOD}/Lib/Symbols/TPS621351RGXR.kicad_sym")(options "")(descr ""))
+)
